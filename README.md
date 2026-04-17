@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:E4405F&height=250&section=header&text=Hello,%20I'm%20Yukaa&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Hello,+I'm+Yukaa;I'm+a+developer;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
+</div>
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=5865F2&style=flat-square" alt="Views" />
 </div>
 
