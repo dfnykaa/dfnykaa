@@ -1,27 +1,26 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Hello,+I'm+Yukaa;I'm+a+developer;Welcome+to+my+profile!" alt="Typing SVG" />
-  </a>
+# hey, i'm yukaa 🛠️
 
-<br>
+i build web interfaces and script for fivem. focusing on clean code, performance, and stuff that actually works smoothly.
 
-## 👋 About Me
-I’m a developer who cares about both the code and the design. Whether it's a modern website or scripting for FiveM, I focus on making things work smoothly and look great. If you have an idea you want to build, let’s make it happen.
+---
 
-### 🛠 Tech Stack
+### 💻 tech stack
+
+- **languages:** lua, javascript, html, css
+- **runtime:** node.js
+- **tools:** git, vscode
+
+---
+
+### 📊 git status
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dfnykaa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfnykaa&layout=compact&theme=dark&hide_border=true" height="150" alt="languages" />
 </p>
 
 ---
 
-### 📱 Contact Me
-<p align="left">
-  <a href="https://discord.com/users/1354085290830205001">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+### 💬 reach out
+
+- **discord:** `https://discord.com/users/1354085290830205001`
