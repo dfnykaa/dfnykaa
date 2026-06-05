@@ -1,10 +1,10 @@
-# Hey, i'm ykaa 🛠️
+# Hey, I'm YKAA
 
 i build web interfaces and script for fivem. focusing on clean code, performance, and stuff that actually works smoothly.
 
 ---
 
-### 💻 tech stack
+### 🛠️ Tech Stack
 
 - **languages:** lua, javascript, html, css
 - **runtime:** node.js
@@ -12,7 +12,7 @@ i build web interfaces and script for fivem. focusing on clean code, performance
 
 ---
 
-### 📊 git status
+### 🎁 Git Stats
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dfnykaa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="150" alt="stats" />
@@ -21,6 +21,6 @@ i build web interfaces and script for fivem. focusing on clean code, performance
 
 ---
 
-### 💬 reach out
+### 📩 Contact Me
 
 - **discord:** [add me on discord](https://discord.com/users/1354085290830205001)
