@@ -22,9 +22,6 @@ These are the tools and languages that I actively use:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-
-### 📸 Its me btw
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmNndXpxZ3BwY3Z3Y2R4bWZzNXg0OHg0ZHZpZXF3bnd5ZHZpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RsPWM/13HgwGsXF0aiGY/giphy.gif" width="600" alt="My Image" />
 </p>
