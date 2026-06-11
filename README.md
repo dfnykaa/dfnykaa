@@ -1,29 +1,50 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="middle" align="center">
-      <br />
-      <h1 align="center" style="border-bottom: none;">Hello, I'm [YKAA]</h1>
-      
-      <blockquote>
-        <p align="center">
-          💻 HTML • CSS • JavaScript • Lua<br />
-        </p>
-      </blockquote>
-      
-      <br />
-      
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW90YzA1bnd4MTg5bW90Ym95bW90Ym95bW90Ym95bW90Ym95bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3orifcN676bC8X85BS/giphy.gif" width="60" alt="mascot" />
-      
-      <br /><br />
-      
-      <a href="https://discord.com">
-        <img src="https://img.shields.io/badge/ADD%20ME%20ON%20DISCORD-%40your__username-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-      </a>
-      <br />
-    </td>
-    
-    <td width="40%" valign="top" align="right">
-      <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius: 10px;" alt="Profile Artwork" />
-    </td>
-  </tr>
-</table>
+# Hello im YKAA! 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hello+I'm+YKAA;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me
+
+Here you can write a short introduction about yourself, what you are currently working on, or what you enjoy doing! 
+
+*   🌍 I am a developer / tech enthusiast.
+*   💻 I love building interesting projects and learning new technologies.
+
+---
+
+### 🛠️ Tech Stack & Languages
+
+These are the tools and languages that I actively use:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
+
+### 📸 My Favorite Image / GIF
+
+> You can place any image, banner, or funny GIF here. Just change the URL in `src=""`. If you have the image stored inside your repository, you can use a path like `./my-image.png`.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmNndXpxZ3BwY3Z3Y2R4bWZzNXg0OHg0ZHZpZXF3bnd5ZHZpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RsPWM/13HgwGsXF0aiGY/giphy.gif" width="600" alt="My Image" />
+</p>
+
+---
+
+### 📬 Connect With Me / Contact
+
+If you want to chat or collaborate on a project, feel free to reach out:
+
+
+
+<p align="center">
+  <i>Made with ❤️ using Markdown.</i>
+</p>
