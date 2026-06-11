@@ -1,26 +1,30 @@
-# Hey, I'm YKAA
+<div align="center">
 
-i build web interfaces and script for fivem. focusing on clean code, performance, and stuff that actually works smoothly.
+# 👋 Hi, I'm YKAA
 
----
+### Frontend Developer | UI Designer | Scripting Enthusiast
 
-### 🛠️ Tech Stack
+🌍 Based in: Czech Republic
+🎯 Specializing in: Building responsive web interfaces and lightweight scripting solutions.
 
-- **languages:** lua, javascript, html, css
-- **runtime:** node.js
-- **tools:** git, vscode
-
----
-
-### 🎁 Git Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dfnykaa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dfnykaa&layout=compact&theme=dark&hide_border=true" height="150" alt="languages" />
-</p>
+</div>
 
 ---
 
-### 📩 Contact Me
+## 🚀 What I Do
 
-- **discord:** [add me on discord](https://discord.com/users/1354085290830205001)
+* **Frontend Development:** Crafting clean, responsive, and pixel-perfect web interfaces using modern HTML, CSS, and JavaScript.
+* **Game & Automation Scripting:** Writing efficient, lightweight scripts in Lua for game development, automation, or configuration.
+* **UI/UX Optimization:** Focusing on fast loading times, clean code structure, and intuitive user experiences.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
