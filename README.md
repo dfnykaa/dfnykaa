@@ -1,10 +1,7 @@
-# Hello im YKAA! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hello+I'm+YKAA;Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
-
----
 
 ### 🚀 About Me
 
@@ -12,8 +9,6 @@ Here you can write a short introduction about yourself, what you are currently w
 
 *   🌍 I am a developer / tech enthusiast.
 *   💻 I love building interesting projects and learning new technologies.
-
----
 
 ### 🛠️ Tech Stack & Languages
 
@@ -27,24 +22,15 @@ These are the tools and languages that I actively use:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
----
 
-### 📸 My Favorite Image / GIF
-
-> You can place any image, banner, or funny GIF here. Just change the URL in `src=""`. If you have the image stored inside your repository, you can use a path like `./my-image.png`.
+### 📸 Its me btw
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmNndXpxZ3BwY3Z3Y2R4bWZzNXg0OHg0ZHZpZXF3bnd5ZHZpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RsPWM/13HgwGsXF0aiGY/giphy.gif" width="600" alt="My Image" />
 </p>
 
----
 
-### 📬 Connect With Me / Contact
+### 📬 Contact me
 
 If you want to chat or collaborate on a project, feel free to reach out:
-
-
-
-<p align="center">
-  <i>Made with ❤️ using Markdown.</i>
-</p>
+*   💬 **Discord:** [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1354085290830205001)
