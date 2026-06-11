@@ -28,8 +28,3 @@ These are the tools and languages that I actively use:
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmNndXpxZ3BwY3Z3Y2R4bWZzNXg0OHg0ZHZpZXF3bnd5ZHZpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RsPWM/13HgwGsXF0aiGY/giphy.gif" width="600" alt="My Image" />
 </p>
-
-
-### 📬 Contact me
-If you want to chat or collaborate on a project, feel free to reach out:
-*   💬 **Discord:** [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1354085290830205001)
