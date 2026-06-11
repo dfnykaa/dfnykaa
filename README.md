@@ -7,7 +7,7 @@
 
 Here you can write a short introduction about yourself, what you are currently working on, or what you enjoy doing! 
 
-*   🌍 I am a developer / tech enthusiast.
+*   🌍 I am a developer
 *   💻 I love building interesting projects and learning new technologies.
 
 ### 🛠️ Tech Stack & Languages
@@ -33,4 +33,4 @@ These are the tools and languages that I actively use:
 ### 📬 Contact me
 
 If you want to chat or collaborate on a project, feel free to reach out:
-*   💬 **Discord:** [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1354085290830205001)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1354085290830205001)
