@@ -33,4 +33,4 @@ These are the tools and languages that I actively use:
 ### 📬 Contact me
 
 If you want to chat or collaborate on a project, feel free to reach out:
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1354085290830205001)
+(https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1354085290830205001)
