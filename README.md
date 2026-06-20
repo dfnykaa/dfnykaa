@@ -14,10 +14,6 @@
   <img src="https://i.imgur.com/waxVImv.png" width="100%" alt="divider"/>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="100%" alt="divider"/>
-</p>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
