@@ -14,15 +14,6 @@
   <img src="https://i.imgur.com/waxVImv.png" width="100%" alt="divider"/>
 </p>
 
-## 👾 About Me
-
-```yaml
-name:       YKAA
-role:       Fullstack Developer & FiveM Script Developer
-interests:  [Football, Gaming, Music]
-contact:    Discord
-```
-
 <p align="center">
   <img src="https://i.imgur.com/waxVImv.png" width="100%" alt="divider"/>
 </p>
@@ -37,20 +28,6 @@ contact:    Discord
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
-
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="100%" alt="divider"/>
-</p>
-
-## 🎮 FiveM Scripts
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESX-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/QBCore-blue?style=for-the-badge"/>
-</p>
-
-> Custom scripts · NUI / HUD · Job systems · Economy · RP frameworks
 
 <p align="center">
   <img src="https://i.imgur.com/waxVImv.png" width="100%" alt="divider"/>
@@ -74,7 +51,7 @@ contact:    Discord
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="https://discord.com/users/YKAA">
+  <a href="https://discord.com/users/1354085290830205001">
     <img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
