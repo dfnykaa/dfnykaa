@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Hello,+I'm+Yukaa;I'm+a+developer;Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Hello,+I'm+Ykaa;I'm+a+developer;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=my-name-is-yuki&label=Profile%20Views&color=5865F2&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=ykaa&label=Profile%20Views&color=5865F2&style=flat-square" alt="Views" />
 </div>
 
 <br>
@@ -24,6 +24,9 @@ I’m a developer who cares about both the code and the design. Whether it's a m
 ### 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
@@ -32,8 +35,8 @@ I’m a developer who cares about both the code and the design. Whether it's a m
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=my-name-is-yuki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yukaa's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my-name-is-yuki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ykaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ykaa's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 ---
@@ -48,7 +51,6 @@ I’m a developer who cares about both the code and the design. Whether it's a m
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/my-name-is-yuki/my-name-is-yuki/master/assets/images/yuki-walking.gif" width="80px" />
+  <img src="https://raw.githubusercontent.com/my-name-is-ykaa/my-name-is-ykaa/master/assets/images/ykaa-walking.gif" width="80px" />
   <br>
-  <sub><i>Coding the future, one line at a time.</i></sub>
 </div>
