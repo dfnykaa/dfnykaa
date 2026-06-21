@@ -1,57 +1,47 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hello+I'm+YKAA;Welcome+to+my+profile!" alt="Typing SVG" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Hello,+I'm+Yukaa;I'm+a+developer;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=5865F2&style=flat-square" alt="Views" />
+</div>
 
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="100%" alt="divider"/>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="chill coding gif"/>
-</p>
+## 👋 About Me
+I'm a passionate developer focused on building interactive experiences and clean scripts. I specialize in **Lua** and **JavaScript**, constantly exploring new ways to optimize code and create cool features.
 
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="100%" alt="divider"/>
-</p>
+- 🔭 I’m currently working on improving my backend skills.
+- ⚡ Fun fact: I love clean UI and smooth animations.
+- 💬 Ask me about: **Lua scripting** or **Discord bots**.
 
-## 🛠️ Tech Stack
+---
+I’m a developer who cares about both the code and the design. Whether it's a modern website or scripting for FiveM, I focus on making things work smoothly and look great. If you have an idea you want to build, let’s make it happen.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+### 🛠 Tech Stack
+<p align="left">
+@@ -28,25 +19,9 @@ I'm a passionate developer focused on building interactive experiences and clean
 
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="100%" alt="divider"/>
-</p>
+---
 
-## 📊 Stats
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yukaa's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YKAA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YKAA&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YKAA&theme=radical&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="100%" alt="divider"/>
-</p>
-
-## 📬 Contact Me
-
-<p align="center">
+### 📱 Contact Me
+<p align="left">
   <a href="https://discord.com/users/1354085290830205001">
-    <img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YKAA&color=F75C7E&style=flat-square&label=Profile+Views" />
-</p>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/my-name-is-yuki/my-name-is-yuki/master/assets/images/yuki-walking.gif" width="80px" />
+  <br>
+  <sub><i>Coding the future, one line at a time.</i></sub>
+</div>
