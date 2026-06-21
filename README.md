@@ -1,8 +1,11 @@
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Hello,+I'm+Yukaa;I'm+a+developer;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=5865F2&style=flat-square" alt="Views" />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=my-name-is-yuki&label=Profile%20Views&color=5865F2&style=flat-square" alt="Views" />
 </div>
 
 <br>
@@ -15,26 +18,30 @@ I'm a passionate developer focused on building interactive experiences and clean
 - 💬 Ask me about: **Lua scripting** or **Discord bots**.
 
 ---
+
 I’m a developer who cares about both the code and the design. Whether it's a modern website or scripting for FiveM, I focus on making things work smoothly and look great. If you have an idea you want to build, let’s make it happen.
 
 ### 🛠 Tech Stack
 <p align="left">
-@@ -28,25 +19,9 @@ I'm a passionate developer focused on building interactive experiences and clean
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
 
 ---
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yukaa's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=my-name-is-yuki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yukaa's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my-name-is-yuki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 ---
 
 ### 📱 Contact Me
 <p align="left">
-  <a href="https://discord.com/users/1354085290830205001">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/1354085290830205001" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
