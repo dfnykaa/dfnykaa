@@ -33,14 +33,6 @@ I’m a developer who cares about both the code and the design. Whether it's a m
 
 ---
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ykaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ykaa's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</div>
-
----
-
 ### 📱 Contact Me
 <p align="left">
   <a href="https://discord.com/users/1354085290830205001" target="_blank">
