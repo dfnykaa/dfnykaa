@@ -10,15 +10,6 @@
 
 <br>
 
-## 👋 About Me
-I'm a passionate developer focused on building interactive experiences and clean scripts. I specialize in **Lua** and **JavaScript**, constantly exploring new ways to optimize code and create cool features.
-
-- 🔭 I’m currently working on improving my backend skills.
-- ⚡ Fun fact: I love clean UI and smooth animations.
-- 💬 Ask me about: **Lua scripting** or **Discord bots**.
-
----
-
 I’m a developer who cares about both the code and the design. Whether it's a modern website or scripting for FiveM, I focus on making things work smoothly and look great. If you have an idea you want to build, let’s make it happen.
 
 ### 🛠 Tech Stack
