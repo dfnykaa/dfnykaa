@@ -1,3 +1,7 @@
+<div align="center">
+  <h1>Hi 👋, I'm ykaa</h1>
+</div>
+
 ### 💫 About Me
 
 Hey there! I am a developer who believes that **clean code** and **great design** go hand in hand. I focus on building things that not only work flawlessly under the hood but look awesome on the outside.
