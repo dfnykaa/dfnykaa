@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZsZ3d0NXN3ZXp3N3FvYTN0bndwM2YwZXE0NXE0cnA4NTh4bnhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" alt="Coding GIF" />
-  
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=ykaa&label=Profile%20Views&color=5865F2&style=flat-square" alt="Views" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZicW85cmMzY29uNjN3YmN0bXp6Z3hkb3V5bXN0Y3FpeHZsMThreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKEPZ21jaWUExLe/giphy.gif" width="450px" alt="Tired Developer GIF" />
 </div>
 
 <br>
@@ -16,7 +12,7 @@ Hey there! I am a developer who believes that **clean code** and **great design*
 
 * 🎮 **FiveM & Scripting:** Specializing in creating smooth, optimized, and immersive custom scripts.
 * 🌐 **Web Dev:** Passionate about crafting modern, responsive, and user-friendly web applications.
-* 💡 **Vision:** Got a cool concept or a project in mind? Let’s team up and bring it to life.
+*🛡️  **Current Focus:** I am currently focusing on **[YKAA AntiCheat](https://ykaa.tebex.io/)**.
 
 ---
 
