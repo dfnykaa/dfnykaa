@@ -2,9 +2,7 @@
 
 Hey there! I am a developer who believes that **clean code** and **great design** go hand in hand. I focus on building things that not only work flawlessly under the hood but look awesome on the outside.
 
-* 🛡️  **Current Focus:** I am currently focusing on **[YKAA AntiCheat](https://ykaa.tebex.io/)**.
-
----
+* 🛡️  **My Project** I am currently focusing on **[YKAA AntiCheat](https://ykaa.tebex.io/)**.
 
 ### 🛠 Tech Stack
 
@@ -17,7 +15,6 @@ Hey there! I am a developer who believes that **clean code** and **great design*
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
----
 
 ### 📱 Let's Connect
 
