@@ -1,18 +1,8 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZicW85cmMzY29uNjN3YmN0bXp6Z3hkb3V5bXN0Y3FpeHZsMThreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKEPZ21jaWUExLe/giphy.gif" width="450px" alt="Tired Developer GIF" />
-</div>
-
-<br>
-
----
-
 ### 💫 About Me
 
 Hey there! I am a developer who believes that **clean code** and **great design** go hand in hand. I focus on building things that not only work flawlessly under the hood but look awesome on the outside.
 
-* 🎮 **FiveM & Scripting:** Specializing in creating smooth, optimized, and immersive custom scripts.
-* 🌐 **Web Dev:** Passionate about crafting modern, responsive, and user-friendly web applications.
-*🛡️  **Current Focus:** I am currently focusing on **[YKAA AntiCheat](https://ykaa.tebex.io/)**.
+* 🛡️  **Current Focus:** I am currently focusing on **[YKAA AntiCheat](https://ykaa.tebex.io/)**.
 
 ---
 
