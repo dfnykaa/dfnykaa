@@ -1,35 +1,18 @@
-<div align="center">
-  <h1>Hi 👋, I'm ykaa</h1>
-</div>
+# Hi there, I'm YKAA 👋
 
-### 💫 About Me
+### 🚀 Passionate Web Developer & Programmer
 
-Hey there! I am a developer who believes that **clean code** and **great design** go hand in hand. I focus on building things that not only work flawlessly under the hood but look awesome on the outside.
+Welcome to my GitHub profile! I love turning ideas into reality through clean, efficient, and modern web applications. 
 
-* 🛡️  **My Project** I am currently focusing on **[YKAA AntiCheat](https://ykaa.tebex.io/)**.
+---
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack & Tools
+* **Languages:** JavaScript, TypeScript, Lua, Html, Python, Css
+* **Frontend:** React, Next.js
+* **Backend:** Node.js, Express
+* **Tools:** Git, GitHub, VS Code
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
+---
 
-
-### 📱 Let's Connect
-
-<p align="left">
-  <a href="https://discord.com/users/1354085290830205001" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw3M205cmh4bTA5cXp6bms4b3BndHliYTNscW90YnFhaGl3Yms2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8KJu5vSh6hsc6SInI/giphy.gif" width="100px" />
-</div>
+### 📬 Get in Touch
+* **Discord:** `<@1354085290830205001>` *(User ID)*
