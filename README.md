@@ -13,6 +13,3 @@ Welcome to my GitHub profile! I love turning ideas into reality through clean, e
 * **Tools:** Git, GitHub, VS Code
 
 ---
-
-### 📬 Get in Touch
-* **Discord:** `<@1354085290830205001>` *(User ID)*
