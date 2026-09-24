@@ -31,13 +31,6 @@
 
 ---
 
-### 🔭 What I'm Currently Working On
-- 🚀 Building modern web apps using **Next.js** & **TypeScript**
-- 💻 I'm still trying to maintain my biggest project [YKAA AntiCheat](https://ykaa-anticheat.space)
-- 💡 Exploring new web technologies and performance optimization
-
----
-
 <div align="center">
   <sub>Designed with ❤️ by YKAA</sub>
 </div>
