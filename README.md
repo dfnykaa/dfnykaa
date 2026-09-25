@@ -1,36 +1,45 @@
 <div align="center">
 
-  <h1>Hi there, I'm YKAA 👋</h1>
-  <p><strong>Passionate Web Developer & Programmer</strong></p>
+# I'm <span style="color: #9d2b3a;">Wari</span>
 
-  <p>
-    Welcome to my GitHub profile! I love turning ideas into reality through clean, efficient, and modern web applications.
-  </p>
+### About Me
 
-</div>
+<p>
+  Hey, I'm <b>YKAA</b>
+  Looking for a <b>Full-Stack Web</b> or <b>FiveM Developer</b>
+  Always open to new ideas & happy to help with your custom requests anytime
+</p>
 
----
+<p><sub>▸Discord Activity</sub></p>
 
-### 🛠️ Tech Stack & Tools
-
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
- ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<a href="https://discord.com/users/1354085290830205001">
+  <img src="https://lanyard.cnrad.dev/api/1354085290830205001?bg=0d0e12&animated=true" alt="Discord Activity" width="380" />
+</a>
 
 ---
 
-<div align="center">
-  <sub>Designed with ❤️ by YKAA</sub>
+### Languages & Tools
+
+<p><sub>▸ FiveM Development</sub></p>
+
+<p>
+  <img src="https://img.shields.io/badge/FiveM-211116?style=for-the-badge&logo=fivem&logoColor=9d2b3a" alt="FiveM" />
+  <img src="https://img.shields.io/badge/Lua-211116?style=for-the-badge&logo=lua&logoColor=9d2b3a" alt="Lua" />
+  <img src="https://img.shields.io/badge/JavaScript-211116?style=for-the-badge&logo=javascript&logoColor=9d2b3a" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-211116?style=for-the-badge&logo=typescript&logoColor=9d2b3a" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-211116?style=for-the-badge&logo=mysql&logoColor=9d2b3a" alt="MySQL" />
+</p>
+
+<p><sub>▸ Web Development</sub></p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-211116?style=for-the-badge&logo=react&logoColor=9d2b3a" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-211116?style=for-the-badge&logo=nextdotjs&logoColor=9d2b3a" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-211116?style=for-the-badge&logo=astro&logoColor=9d2b3a" alt="Astro" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-211116?style=for-the-badge&logo=tailwindcss&logoColor=9d2b3a" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-211116?style=for-the-badge&logo=nodedotjs&logoColor=9d2b3a" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-211116?style=for-the-badge&logo=html5&logoColor=9d2b3a" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-211116?style=for-the-badge&logo=css3&logoColor=9d2b3a" alt="CSS3" />
+</p>
+
 </div>
