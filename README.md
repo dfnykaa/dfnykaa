@@ -7,7 +7,7 @@
 ### About Me
 
 <p>
-  Hey, I'm <b>YKAA</b> – Based in <b>Czech Republic</b><br>
+  Based in <b>Czech Republic</b><br>
   Looking for a <b>Full-Stack Web</b> or <b>FiveM Developer</b>? <i>Hit me up!</i><br>
   Always open to new ideas & happy to help with your custom requests anytime
 </p>
