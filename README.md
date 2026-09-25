@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=3b82f6" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3b82f6" alt="Node.js" />
   <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=3b82f6" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=3b82f6" alt="CSS3" />
 </p>
 
 </div>
