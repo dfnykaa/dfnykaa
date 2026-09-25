@@ -2,8 +2,6 @@
 
 # I'm <span style="color: #3b82f6;">YKAA</span>
 
-### Developer
-
 ---
 
 ### About Me
@@ -13,12 +11,6 @@
   Looking for a <b>Full-Stack Web</b> or <b>FiveM Developer</b>? <i>Hit me up!</i><br>
   Always open to new ideas & happy to help with your custom requests anytime
 </p>
-
-<p><sub>▸ Discord Activity</sub></p>
-
-<a href="https://discord.com/users/1354085290830205001">
-  <img src="https://lanyard.cnrad.dev/api/1354085290830205001?theme=dark&bg=0d1117&animated=true" alt="Discord Activity" width="380" />
-</a>
 
 ---
 
